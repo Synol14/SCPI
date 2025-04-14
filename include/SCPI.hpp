@@ -1,5 +1,5 @@
 /**
- * @file SCPI.h
+ * @file SCPI.hpp
  * @author Synol_
  * @brief SCPI (Standard Commands for Programmable Instruments) library
  * @version 0.1
